@@ -1,5 +1,7 @@
-## Como rodar o programa:
+# Como rodar o programa:
 
-# gcc -o app main.c crud.c
+```
+gcc -o app main.c crud.c
 
-# ./app
+./app
+```
